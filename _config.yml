@@ -6,7 +6,7 @@ email: liningwonder@163.com
 description: "Stay hungry, stay foolish."
 keyword: "liningwonder, 李宁的博客, Tech Blog"
 url: "http://liningwonder.github.io"          # your host, for absolute URL
-baseurl: "/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/liningwonder/liningwonder.github.io" # you code repository
 plugins: [jekyll-paginate]
 
